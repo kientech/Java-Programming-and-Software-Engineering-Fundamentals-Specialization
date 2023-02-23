@@ -23,8 +23,7 @@ Take your first step towards a career in software development with this introduc
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-Completing...
- <!--<a href="https://www.coursera.org/account/accomplishments/verify/33ZAFC3HCDRM"><img src="https://user-images.githubusercontent.com/96287101/204099601-28bc087b-4527-44dc-ba9d-7b9ede8ae0d0.jpg" height="430"></a>-->
+ <a href="https://www.coursera.org/account/accomplishments/verify/2VK46RPRCYDM"><img src="https://user-images.githubusercontent.com/96287101/220859863-ec3b9647-a2fd-4714-a0a1-0b53bfe37b43.jpg" height="430"></a>
 </p>
 
 
